@@ -2,7 +2,7 @@ h1 {
     color:rgb(205, 250, 212);
 }
 h2 {
-    color:rgb(205, 250, 212);
+    color:rgb(0, 0, 0);
 }
 h1 {
     background-color:rgb(5, 100, 14);
@@ -20,7 +20,10 @@ p {
     font-family: 'Iansui';
 }
 h2 {
-
+    font-family: 'Knewave';
+}
+h2 {
+    font-size: 30px;
 }
 p {
     font-size:larger;
