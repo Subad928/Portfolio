@@ -1,0 +1,89 @@
+h1 {
+    color:rgb(205, 250, 212);
+}
+h2 {
+    color:rgb(205, 250, 212);
+}
+h1 {
+    background-color:rgb(5, 100, 14);
+}
+h2 {
+    background-color:rgb(5, 100, 14);
+}
+p {
+    color:aliceblue
+}
+p {
+    background-color:rgb(129, 216, 102)
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+html {
+    background-color:rgb(1, 24, 1);
+}
+h2 {
+
+}
+p {
+    font-size:larger;
+}
+h1 {
+    font-family:initial;
+}
+.navbar li {
+    background:scroll;
+    display:inline;
+    justify-content:flex-start;
+    padding: 10px 0;
+}
+.navbar li {
+    position:unset;
+}
+
+.navbar a {
+    text-decoration:solid;
+    color: rgb(205, 250, 212);
+    padding: 10px 20px;
+    display:table;
+}
+
+.navbar a:hover {
+    background: #555;
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+    display: none;
+    position: s;
+    top: 100%;
+    left: 0;
+    background: #444;
+    min-width: 150px;
+}
+
+.dropdown-menu li {
+    width: 100%;
+}
+
+.dropdown-menu a {
+    padding: 10px;
+    display: ruby-base-container;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown-menu {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+}
+li {
+    display: inline;
+}
