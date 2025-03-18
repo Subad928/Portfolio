@@ -1,20 +1,21 @@
 h1 {
-    color:rgb(205, 250, 212);
+    color:rgb(0, 0, 0);
 }
 h2 {
     color:rgb(0, 0, 0);
 }
 h1 {
-    background-color:rgb(5, 100, 14);
+    background-color:rgb(231, 79, 255);
 }
 h2 {
-    background-color:rgb(5, 100, 14);
+    background-color:rgb(255, 243, 13);
+    background-position: center;
 }
 p {
     color:rgb(0, 0, 0)
 }
 p {
-    background-image: url("https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/School-Clipart/Sticky_Note_PNG_Clip_Art_Image.png?m=1629814384");
+    background-image: url("");
 }
 p {
     font-family: 'Iansui';
@@ -35,8 +36,6 @@ h1 {
 p {
     font-size:larger;
 }
-h1 {
-    font-family:initial;
 }
 .navbar li {
     background:scroll;
@@ -103,4 +102,6 @@ html {
 body {
     background-image: url("https://t4.ftcdn.net/jpg/01/64/99/19/360_F_164991966_MfVeEvVkMOe3ICaGKiYJp8BVFUX1Ogrb.jpg");
   }
-  .mainimg
+  .flex-row {
+    background-color: aquamarine;
+  }
