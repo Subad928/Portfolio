@@ -1,42 +1,7 @@
-h1 {
-    color:rgb(255, 255, 255);
+html {
+    scroll-behavior: smooth;
+    background-image: url("https://images.photowall.com/products/60438/gray-wall-texture.jpg?h=699&q=85");
 }
-h2 {
-    color:rgb(255, 255, 255);
-}
-h1 {
-    background-color:rgb(0, 0, 0);
-}
-h2 {
-    background-color:rgb(0, 0, 0);
-    background-position: center;
-}
-p {
-    color:rgb(0, 0, 0)
-}
-p {
-    background-image: url("");
-}
-p {
-    font-family: 'Iansui';
-}
-h2 {
-    font-family: 'Knewave';
-}
-h1 {
-    font-family: 'Knewave';
-}
-h2 {
-    font-size: 30px;
-}
-h1 {
-    font-size: 40px;
-}
-
-p {
-    font-size:larger;
-}
-
 .navbar li {
     background:scroll;
     display:inline;
@@ -99,19 +64,3 @@ html {
 .flex-row {
     display: flex;
 }
-body {
-    background-image: url("https://images.photowall.com/products/60438/gray-wall-texture.jpg?h=699&q=85");
-  }
-  .flex-row {
-    background-color: rgb(0, 0, 0);
-  }
-  .contact-link {
-    background-image: url("https://png.pngtree.com/png-vector/20221203/ourmid/pngtree-empty-wooden-shelf-vector-png-image_6495857.png");
-  }
-  .mainimg {
-    display:flex;
-    justify-content: center;
-    border-radius: 4%;
-    border-style:ridge;
-    margin: auto;
-  }
